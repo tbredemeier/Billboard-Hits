@@ -11,6 +11,7 @@
 		A260949E25E818CD00F8135B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A260949D25E818CD00F8135B /* ContentView.swift */; };
 		A26094A025E818CF00F8135B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A260949F25E818CF00F8135B /* Assets.xcassets */; };
 		A26094A325E818CF00F8135B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A26094A225E818CF00F8135B /* Preview Assets.xcassets */; };
+		A26094AC25E818E100F8135B /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = A26094AB25E818E100F8135B /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A260949F25E818CF00F8135B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A26094A225E818CF00F8135B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A26094A425E818CF00F8135B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A26094AB25E818E100F8135B /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				A260949D25E818CD00F8135B /* ContentView.swift */,
 				A260949F25E818CF00F8135B /* Assets.xcassets */,
 				A26094A425E818CF00F8135B /* Info.plist */,
+				A26094AB25E818E100F8135B /* SwiftyJSON.swift */,
 				A26094A125E818CF00F8135B /* Preview Content */,
 			);
 			path = "Billboard Hits";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A26094AC25E818E100F8135B /* SwiftyJSON.swift in Sources */,
 				A260949E25E818CD00F8135B /* ContentView.swift in Sources */,
 				A260949C25E818CD00F8135B /* Billboard_HitsApp.swift in Sources */,
 			);
